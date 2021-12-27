@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #464660;
+}
+
+html {
+  background-color: #F1E9E5;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Licorice', cursive;
+  font-size: 100px;
+  color: #F1E9E5;
+  margin-bottom: 20px;
+  line-height: 2;
+}
+
+h2 {
+  color: #F1E9E5;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+.title-heading {
+  color: #F1E9E5;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+  font-style: italic;
+}
+
+p {
+  line-height: 2;
+}
+
+li {
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 6px;
+  border-color: #B4B897;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a {
+  color: #F1E9E5;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #B4B897;
+}
+.profile-pic {
+  width: 15%;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+.headings {
+  color: #464660;
+  font-weight: bold;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.code-img-container {
+  background-color: #368B85;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+
+}
+.code-img {
+  width: 50%;
+  position: absolute;
+  left: 37px;
+  bottom: 37px;
+}
+
+.edu-img-container {
+  background-color: #368B85;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+.edu-img {
+  width: 50%;
+  position: absolute;
+  right: 37px;
+  bottom: 37px;
+}
+
+.top-container {
+  background-color: #464660;
+  position: relative;
+  padding-top: 100px
+}
+
+.middle-container {
+  background-color: #F1E9E5;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #464660;
+  padding: 50px 0 20px;
+}
+
+.contact-me {
+  padding: 40px;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 40px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #F1E9E5;
+  font-size: 24px;
+  background: #464660;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 30px;
+}
+
+.btn:hover {
+  background: #368B85;
+  text-decoration: none;
+}
+
+.copyright-author {
+  color: #f1e9e5;
+  font-size: .75rem;
+  padding: 20px 0;
+}
